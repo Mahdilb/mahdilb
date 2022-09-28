@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Lotfi</h1>
 <h3 align="center">A passionate ML Engineer from around ;)</h3>
 
-- 🔭 I’m currently working on [Something big](matority.com) which aims to Detect Products and their Attributes Value in raw texts (especially Instagram captions).
+- 🔭 I’m currently working on [Something big](https://matority.com/) which aims to Detect Products and their Attributes Value in raw texts (especially Instagram captions).
 
 - 🌱 I’m currently learning **Model and Data Version Control and using related tools + Data Engineering and Infrastucture**
 
