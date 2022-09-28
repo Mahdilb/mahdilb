@@ -4,9 +4,11 @@
 **Mahdilb/mahdilb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on a big project which aims to Detect Products and their Attributes Value in raw texts (especially Instagram captions).
 - 🌱 I’m currently learning Model and Data Version Control and using related tools + Data Engineering
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
